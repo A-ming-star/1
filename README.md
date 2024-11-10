@@ -1,1 +1,1 @@
-"Hello,I am a Chinese student."
+"Hello,I am from China."
